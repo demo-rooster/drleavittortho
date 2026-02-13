@@ -2,7 +2,7 @@
   "Home": [
     {
       "acf_fc_layout": "hero",
-      "title": "Leavitt Orthodontics",
+      "title": "LEAVITT ORTHODONTICS",
       "text": "",
       "button": {
         "type": "nuxt",
@@ -15,13 +15,13 @@
         "external": true,
         "include_icon": false,
         "icon": "pencil",
-        "color": "black"
+        "color": "primary"
       },
       "media_type": "image",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/191531294_Medical_dentist_team_in_dental_office_discuss_abou.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/191531294_Medical_dentist_team_in_dental_office_discuss_abou.webp",
-        "alt": "Leavitt Orthodontics team celebrating at the office grand opening, bright welcoming orthodontic practice",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/211023264_Portrait_Of_Smiling_Male_And_Female_Dentists_At_Cl.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/211023264_Portrait_Of_Smiling_Male_And_Female_Dentists_At_Cl.webp",
+        "alt": "Modern orthodontic office exterior and smiling team at Leavitt Orthodontics",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -29,9 +29,7 @@
         "objectPosition": "center",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Home Hero"
-        }
+        "image_selection_hints": null
       },
       "video": {
         "src": "",
@@ -45,10 +43,10 @@
       "title": "Welcome to Leavitt Orthodontics",
       "paragraphs": [
         {
-          "text": "Welcome! Dr. Leavitt and his team pride themselves on giving you and your smile the attention it deserves in Pocatello, Idaho. Our outstanding personal service, modern orthodontic technology, and convenient scheduling create a friendly, comfortable experience where patients feel like part of a community."
+          "text": "Welcome! Dr. Leavitt and his team pride themselves on giving you and your smile the attention it deserves. Our outstanding personal service, advanced orthodontic technology, flexible scheduling, and a doctor-driven, patient-centered approach create a friendly, family atmosphere where you’ll feel like part of a community."
         },
         {
-          "text": "Learn more about what makes our care different and how we make treatment approachable and affordable, from clear aligners to efficient bracket systems and easy, flexible payment options."
+          "text": "One Doctor. One Location. One Focus—YOU! We make treatment accessible and comfortable for patients of all ages, with clear communication and care designed around your life."
         }
       ],
       "component_options": {
@@ -62,14 +60,14 @@
     },
     {
       "acf_fc_layout": "multi_item_row",
-      "title": "Why Choose Leavitt Orthodontics",
+      "title": "Why Choose Us",
       "items": [
         {
-          "title": "One Doctor, One Focus",
+          "title": "Personalized Care",
           "icon": "people",
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/250443216_selective_focus_of_dentist_in_mask_holding_dental.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/250443216_selective_focus_of_dentist_in_mask_holding_dental.webp",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/316558526_friendly_dentist_woman_treating_beautiful_patient.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/316558526_friendly_dentist_woman_treating_beautiful_patient.webp",
             "alt": "",
             "aria_hidden": false,
             "bgColor": "",
@@ -78,11 +76,36 @@
             "objectPosition": "",
             "forceAlt": "",
             "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Locally owned"
-            }
+            "image_selection_hints": null
           },
-          "text": "A local practice led by Dr. Tyler Leavitt, focused on personalized care in one convenient Pocatello location.",
+          "text": "We’re a doctor-driven, patient-centered practice — warm, respectful, and focused on you and your smile.",
+          "add_button": false,
+          "button": {
+            "button_type": "button",
+            "path": "",
+            "hash": "",
+            "href": "",
+            "label": "",
+            "aria": ""
+          }
+        },
+        {
+          "title": "Invisalign & Tech",
+          "icon": "braces-together",
+          "image": {
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/412396002_Invisalign.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/412396002_Invisalign.webp",
+            "alt": "",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          },
+          "text": "Certified Invisalign<sup>®</sup> provider offering discreet clear aligners and modern orthodontic techniques for efficient, comfortable care.",
           "add_button": false,
           "button": {
             "button_type": "button",
@@ -95,7 +118,7 @@
         },
         {
           "title": "Flexible Payments",
-          "icon": "phone-tooth",
+          "icon": "file-chart-tooth",
           "image": {
             "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/186439743_dental_care_savings_concept_beautiful_smiling_woma.jpg",
             "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/186439743_dental_care_savings_concept_beautiful_smiling_woma.webp",
@@ -107,11 +130,9 @@
             "objectPosition": "",
             "forceAlt": "",
             "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Flexible Payments"
-            }
+            "image_selection_hints": null
           },
-          "text": "Personalized, flexible plans (including zero down options) to make braces and aligners affordable for families.",
+          "text": "Personalized, flexible payment plans — including options with low or zero down — to make treatment affordable for your family.",
           "add_button": false,
           "button": {
             "button_type": "button",
@@ -123,11 +144,11 @@
           }
         },
         {
-          "title": "Advanced Technology",
-          "icon": "laptop-tooth",
+          "title": "Local, Doctor-Led",
+          "icon": "location-tooth",
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/493853958_Dentist_scanning_woman_teeth_with_dental_intraoral.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/493853958_Dentist_scanning_woman_teeth_with_dental_intraoral.webp",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/312940249_Invisible_orthodontics_cosmetic_brackets_on_gradie.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/312940249_Invisible_orthodontics_cosmetic_brackets_on_gradie.webp",
             "alt": "",
             "aria_hidden": false,
             "bgColor": "",
@@ -136,40 +157,9 @@
             "objectPosition": "",
             "forceAlt": "",
             "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Better Care"
-            }
+            "image_selection_hints": null
           },
-          "text": "Certified Invisalign<sup>®</sup> provider and modern bracket systems like Damon for efficient, aesthetic treatment.",
-          "add_button": false,
-          "button": {
-            "button_type": "button",
-            "path": "",
-            "hash": "",
-            "href": "",
-            "label": "",
-            "aria": ""
-          }
-        },
-        {
-          "title": "Community Care",
-          "icon": "shiny-tooth",
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/165530282_Attentive_boy_pouring_new_plant.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/165530282_Attentive_boy_pouring_new_plant.webp",
-            "alt": "",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Community"
-            }
-          },
-          "text": "Family-friendly care with patient appreciation events and a focus on treating every person like family.",
+          "text": "One Doctor. One Location. One Focus—YOU. Local care centered on long-term results and a great patient experience.",
           "add_button": false,
           "button": {
             "button_type": "button",
@@ -214,14 +204,14 @@
         {
           "has_heading": false,
           "heading": "",
-          "text": "Tyler Leavitt, DDS, MSD is a Pocatello native who returned to Southeast Idaho to build a patient-centered orthodontic practice. He completed his dental training at Creighton University School of Dentistry and pursued orthodontic specialty training at Saint Louis University\u0002s Center for Advanced Dental Education. Dr. Leavitt brings award-winning clinical training and a warm, community-minded approach to every patient visit."
+          "text": "Tyler Leavitt, DDS, MSD was born in Pocatello and raised in Blackfoot. Dr. Leavitt trained at Creighton University School of Dentistry, graduating with honors, and completed his orthodontic residency at Saint Louis University. He earned multiple awards and society inductions for academic and clinical excellence, and he is passionate about treating patients like family and helping them gain confidence through great smiles. Certified Invisalign<sup>®</sup> Provider."
         }
       ],
       "accordion": [],
       "image": {
-        "src": "https://images.squarespace-cdn.com/content/v1/6026f3cbe22fb52d30f10a9a/1614920153511-HVS8ULG9VW38OI7OPQAU/pocatello+orthodontist",
-        "webp": "https://images.squarespace-cdn.com/content/v1/6026f3cbe22fb52d30f10a9a/1614920153511-HVS8ULG9VW38OI7OPQAU/pocatello+orthodontist",
-        "alt": "Dr. Tyler Leavitt, orthodontist at Leavitt Orthodontics",
+        "src": "https://images.squarespace-cdn.com/content/v1/6026f3cbe22fb52d30f10a9a/1616451706951-6PZF50VXPTKRBXEV93NW/IMG_4713.jpg",
+        "webp": "",
+        "alt": "Dr. Tyler Leavitt headshot",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -229,9 +219,7 @@
         "objectPosition": "center",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Experienced"
-        }
+        "image_selection_hints": null
       },
       "video": {
         "type": "file",
@@ -242,7 +230,7 @@
           "button": {
             "type": "nuxt",
             "style": "secondary",
-            "label": "Meet Dr. Leavitt",
+            "label": "Meet Dr. Tyler Leavitt",
             "aria_label": "Learn about our orthodontist",
             "href": "",
             "path": "/about",
@@ -280,7 +268,7 @@
       "title": "Explore Our Treatments",
       "paragraphs": [
         {
-          "text": "From traditional braces to Invisalign clear aligners, we offer treatment options for children, teens, and adults to match every lifestyle and smile goal."
+          "text": "From traditional braces to Invisalign<sup>®</sup> clear aligners, we offer a range of services to suit every patient."
         }
       ],
       "button": {
@@ -301,59 +289,53 @@
       "items": [
         {
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/211024688_Woman_Wearing_Clear_Aligner_In_Dental_Clinic.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/211024688_Woman_Wearing_Clear_Aligner_In_Dental_Clinic.webp",
-            "alt": "Patient smiling while holding clear Invisalign aligners",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/127410354_Invisible_aligners_plastic_braces_dentistry.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/127410354_Invisible_aligners_plastic_braces_dentistry.webp",
+            "alt": "Patient holding clear Invisalign aligners at Leavitt Orthodontics",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
             "addLoader": false,
-            "objectPosition": "center",
+            "objectPosition": "",
             "forceAlt": "",
             "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Treatments Hero"
-            }
+            "image_selection_hints": null
           },
-          "title": "Invisalign",
+          "title": "Invisalign<sup>®</sup>",
           "path": "/treatments",
           "hash": "#invisalign"
         },
         {
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/25182244_Pretty_girl_wearing_braces_smiling_cheerfully.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/25182244_Pretty_girl_wearing_braces_smiling_cheerfully.webp",
-            "alt": "Damon-style braces creating a natural smile arc",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/180646554_Womans_smile_with_clear_dental_braces_on_teeth.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/180646554_Womans_smile_with_clear_dental_braces_on_teeth.webp",
+            "alt": "Traditional and contemporary braces systems shown at Leavitt Orthodontics",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
             "addLoader": false,
-            "objectPosition": "center",
+            "objectPosition": "",
             "forceAlt": "",
             "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Treatments Hero"
-            }
+            "image_selection_hints": null
           },
-          "title": "Metal & Damon Braces",
+          "title": "Braces",
           "path": "/treatments",
           "hash": "#braces"
         },
         {
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/49630490_Smiling_girl_holding_braces_for_teeth.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/49630490_Smiling_girl_holding_braces_for_teeth.webp",
-            "alt": "Clear retainer on a table to maintain a completed orthodontic result",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/40515651_teeth_with_retainer.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/40515651_teeth_with_retainer.webp",
+            "alt": "Retainer and retention care to protect long-term orthodontic results",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
             "addLoader": false,
-            "objectPosition": "center",
+            "objectPosition": "",
             "forceAlt": "",
             "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Retainers"
-            }
+            "image_selection_hints": null
           },
           "title": "Retainers",
           "path": "/treatments",
@@ -376,11 +358,7 @@
       "text": "",
       "social_links": [
         {
-          "href": "https://maps.google.com",
-          "icon": "phone"
-        },
-        {
-          "href": "https://www.youtube.com/watch?v=-pKIMfpwyPo",
+          "href": "https://www.youtube.com/channel/UC4Xth9Co9Z00OlM5pQ9a1Og",
           "icon": "youtube"
         }
       ],
@@ -409,19 +387,17 @@
       "add_texture": false,
       "linear_gradient": "",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/590658554_Group_of_multiracial_young_student_people_smiling.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/590658554_Group_of_multiracial_young_student_people_smiling.webp",
-        "alt": "Patient testimonial-style social post from Leavitt Orthodontics",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/614704568_Multiracial_group_of_young_friends_enjoying_and_sm.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/614704568_Multiracial_group_of_young_friends_enjoying_and_sm.webp",
+        "alt": "Parents with kids relaxing in front of home",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
         "addLoader": false,
-        "objectPosition": "center",
+        "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Community"
-        }
+        "image_selection_hints": null
       },
       "reversed": false,
       "centered": false,
@@ -459,19 +435,17 @@
       "add_texture": false,
       "linear_gradient": "",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/99326519_Professional_dentist_office.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/99326519_Professional_dentist_office.webp",
-        "alt": "Family enjoying time together outside, inviting patients to schedule a consultation",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/158720629_Dentist_female_posing_at_consultation.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/158720629_Dentist_female_posing_at_consultation.webp",
+        "alt": "Enjoying time together",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
         "addLoader": false,
-        "objectPosition": "center",
+        "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "New Patients Hero"
-        }
+        "image_selection_hints": null
       },
       "reversed": false,
       "centered": true,
@@ -481,14 +455,14 @@
     {
       "seo": {
         "page_title": "Home - Leavitt Orthodontics",
-        "page_description": "Leavitt Orthodontics in Pocatello offers Invisalign\u0000, braces, retainers, and personalized orthodontic care with flexible payments. Schedule a free consultation.",
-        "page_keywords": "orthodontics, Pocatello, Invisalign, braces, retainers, Damon braces, Dr. Tyler Leavitt",
+        "page_description": "Leavitt Orthodontics in Pocatello, ID offers personalized, doctor-driven orthodontics including Invisalign®, braces, and retainers. Call (208) 237-3330.",
+        "page_keywords": "orthodontics, Invisalign, braces, retainers, Pocatello, orthodontist",
         "additional_settings": false,
         "social_meta": {
           "og_meta": {
             "title": "Home - Leavitt Orthodontics",
-            "description": "Leavitt Orthodontics in Pocatello offers Invisalign\u0000, braces, retainers, and personalized orthodontic care with flexible payments.",
-            "image": "https://images.squarespace-cdn.com/content/v1/6026f3cbe22fb52d30f10a9a/1614920153511-HVS8ULG9VW38OI7OPQAU/pocatello+orthodontist"
+            "description": "Leavitt Orthodontics in Pocatello, ID offers personalized, doctor-driven orthodontics including Invisalign®, braces, and retainers. Call (208) 237-3330.",
+            "image": "https://images.squarespace-cdn.com/content/v1/6026f3cbe22fb52d30f10a9a/c4601811-e489-406d-ab4b-d4301cfba11f/Pocatello+Orthodontics"
           }
         }
       }
@@ -510,13 +484,13 @@
         "external": false,
         "include_icon": false,
         "icon": "pencil",
-        "color": "primary"
+        "color": "white"
       },
       "media_type": "image",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/149317615_Group_of_four_dentist_working_together_in_dental_o.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/149317615_Group_of_four_dentist_working_together_in_dental_o.webp",
-        "alt": "Team of orthodontic professionals smiling in the Lakeshore Orthodontics office lobby",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/191531294_Medical_dentist_team_in_dental_office_discuss_abou.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/191531294_Medical_dentist_team_in_dental_office_discuss_abou.webp",
+        "alt": "Dr. Tyler Leavitt and team smiling in the Leavitt Orthodontics office",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -535,10 +509,19 @@
     },
     {
       "acf_fc_layout": "block_text_simple",
-      "title": "Our approach to patient care",
+      "title": "Our Mission",
       "paragraphs": [
         {
-          "text": "One Doctor. One Location. One Focus, YOU! Our office in Pocatello, Idaho is open and accepting patients. We want your experience to be comfortable, fun and enjoyable. We can't wait to see you and your smile."
+          "text": "One Doctor. One Location. One Focus — YOU! Our office in Pocatello, Idaho is open and welcoming new patients. We want your experience to be comfortable, fun, and memorable. We can’t wait to meet you and your smile."
+        },
+        {
+          "text": "The Leavitt difference is simple: a doctor-driven, patient-centered practice that treats you like family. We’re warm, respectful, and passionate about creating confident smiles through individualized care."
+        },
+        {
+          "text": "Certified Invisalign<sup>®</sup> Provider, we offer Invisalign and metal braces plus personalized payment plans, including flexible options to fit your budget."
+        },
+        {
+          "text": "Using advanced technology, gentle techniques, and convenient scheduling, we make orthodontic care accessible for the whole family."
         }
       ],
       "component_options": {
@@ -561,7 +544,7 @@
       "image": {
         "src": "https://images.squarespace-cdn.com/content/v1/6026f3cbe22fb52d30f10a9a/1616451706951-6PZF50VXPTKRBXEV93NW/IMG_4713.jpg",
         "webp": "",
-        "alt": "Dr. Tyler Leavitt smiling",
+        "alt": "Dr. Tyler Leavitt headshot",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -578,16 +561,13 @@
           "header": "Professional",
           "paragraphs": [
             {
-              "text": "Tyler Leavitt DDS, MSD was born in Pocatello and raised in Blackfoot, Idaho. From the first day of dental school, Dr. Leavitt knew he wanted to become an orthodontist and return to serve southeastern Idaho. He created Leavitt Orthodontics to combine a dedication to excellent clinical care with a friendly, family-centered approach that helps patients feel comfortable and confident."
-            },
-            {
-              "text": "Dr. Leavitt is passionate about getting to know patients as individuals, making them laugh, and treating them like family. He brings that same enthusiasm to every treatment, focusing on lasting results and a positive experience for each person who walks through the door."
+              "text": "Tyler Leavitt, DDS, MSD, is an orthodontist and the founder of Leavitt Orthodontics in Pocatello. He provides doctor-led care focused on clear communication and personal attention. Dr. Leavitt treats patients of all ages with Invisalign<sup>®</sup> and metal braces and is a Certified Invisalign Provider."
             }
           ],
           "image": {
-            "src": "https://images.squarespace-cdn.com/content/v1/6026f3cbe22fb52d30f10a9a/1634319786985-T70KWEM7FOV5O3B7OI6G/LeavittOrthoGrandOpening-68.jpg?format=750w",
+            "src": "https://images.squarespace-cdn.com/content/v1/6026f3cbe22fb52d30f10a9a/1614920153511-HVS8ULG9VW38OI7OPQAU/pocatello+orthodontist",
             "webp": "",
-            "alt": "Dr. Leavitt at the practice grand opening",
+            "alt": "Dr. Tyler Leavitt smiling in the office",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -599,19 +579,16 @@
           }
         },
         {
-          "header": "Education",
+          "header": "Education & Honors",
           "paragraphs": [
             {
-              "text": "Dr. Leavitt earned his Doctor of Dental Surgery at Creighton University School of Dentistry, where he graduated with honors and received multiple awards recognizing clinical excellence and service. He continued his specialty training in orthodontics at Saint Louis University Center for Advanced Dental Education, completing an advanced residency in orthodontics and dentofacial orthopedics."
-            },
-            {
-              "text": "While in dental school and residency, Dr. Leavitt was recognized with awards for scholarship and service and was inducted into honor societies recognizing high academic and professional standards."
+              "text": "Dr. Leavitt earned his Doctor of Dental Surgery at Creighton University School of Dentistry and completed his orthodontic residency and Master of Science at Saint Louis University — Center for Advanced Dental Education. He graduated with honors at Creighton and received awards from the American Association of Orthodontists, and was inducted into Alpha Sigma Nu and Omicron Kappa Upsilon honor societies."
             }
           ],
           "image": {
-            "src": "https://images.squarespace-cdn.com/content/v1/6026f3cbe22fb52d30f10a9a/1614920153511-HVS8ULG9VW38OI7OPQAU/pocatello+orthodontist",
+            "src": "https://images.squarespace-cdn.com/content/v1/6026f3cbe22fb52d30f10a9a/1616450786851-DANBQECUU1Q59WI5S6AD/Pocatello+Orthodontist",
             "webp": "",
-            "alt": "Dr. Leavitt portrait",
+            "alt": "Diplomas and professional recognition",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -626,16 +603,13 @@
           "header": "Personal",
           "paragraphs": [
             {
-              "text": "Outside the office Dr. Leavitt enjoys getting to know patients and their families, participating in community events, and making people laugh. He values opportunities to give back locally through school events, patient appreciation activities, and fundraising efforts."
-            },
-            {
-              "text": "Dr. Leavitt is also a Certified Invisalign Provider and enjoys helping patients explore clear-aligner options when appropriate."
+              "text": "Born in Pocatello and raised in Blackfoot, Idaho, Dr. Leavitt returned home to serve southeastern Idaho. He enjoys getting to know patients personally, making them laugh, and treating them like family. Outside the office he participates in community events and enjoys supporting local schools and programs."
             }
           ],
           "image": {
-            "src": "https://images.squarespace-cdn.com/content/v1/6026f3cbe22fb52d30f10a9a/1634319779413-S91EGB3UD6X2ECUEVCCD/LeavittOrthoGrandOpening-67.jpg?format=750w",
+            "src": "https://images.squarespace-cdn.com/content/v1/6026f3cbe22fb52d30f10a9a/1634319747009-2LFXXLK7IC8ZVLJHSQZC/LeavittOrthoGrandOpening-73.jpg?format=2500w",
             "webp": "",
-            "alt": "Dr. Leavitt with community members",
+            "alt": "Dr. Leavitt with the team at a community event",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -665,141 +639,14 @@
       "preserve_image": true
     },
     {
-      "acf_fc_layout": "block_grid",
-      "title": "Meet the Team",
-      "items": [
-        {
-          "name": "Dr. Tyler Leavitt",
-          "position": "Orthodontist",
-          "bio": "Founder of Leavitt Orthodontics, Dr. Leavitt brings specialized orthodontic training and a patient-first approach to every case.",
-          "image": {
-            "src": "https://images.squarespace-cdn.com/content/v1/6026f3cbe22fb52d30f10a9a/1634319747009-2LFXXLK7IC8ZVLJHSQZC/LeavittOrthoGrandOpening-73.jpg?format=2500w",
-            "webp": "",
-            "alt": "Dr. Tyler Leavitt smiling",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": null
-          }
-        },
-        {
-          "name": "Leslie Leavitt",
-          "position": "Team Member",
-          "bio": "A key member of the Leavitt Orthodontics team involved with patient events and practice coordination.",
-          "image": {
-            "src": "https://images.squarespace-cdn.com/content/v1/6026f3cbe22fb52d30f10a9a/1634318462357-5UW6C4BCJ41UH1P9GCMT/LeavittOrthoGrandOpening-1.jpg?format=750w",
-            "webp": "",
-            "alt": "Leavitt Orthodontics team at the grand opening",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": null
-          }
-        },
-        {
-          "name": "Clinical Team",
-          "position": "Clinical Assistants",
-          "bio": "Our clinical assistants support treatment and patient care; full staff bios available on request.",
-          "image": {
-            "src": "https://images.squarespace-cdn.com/content/v1/6026f3cbe22fb52d30f10a9a/1634318534255-Z1JYYLSV62V047HGY73N/LeavittOrthoGrandOpening-7.jpg?format=2500w",
-            "webp": "",
-            "alt": "Team photo at the office",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": null
-          }
-        },
-        {
-          "name": "Patient Care Team",
-          "position": "Front Desk",
-          "bio": "Friendly faces at the front desk who help with scheduling and insurance questions.",
-          "image": {
-            "src": "https://images.squarespace-cdn.com/content/v1/6026f3cbe22fb52d30f10a9a/1634319758500-RG1AHY1JJ9XD8BZ3VIZ8/LeavittOrthoGrandOpening-74.jpg?format=750w",
-            "webp": "",
-            "alt": "Front desk team",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": null
-          }
-        },
-        {
-          "name": "Community Team",
-          "position": "Events & Outreach",
-          "bio": "Supports local events, patient appreciation activities, and school programs in the Pocatello area.",
-          "image": {
-            "src": "https://images.squarespace-cdn.com/content/v1/6026f3cbe22fb52d30f10a9a/1634319698134-R5UJQRN9FW18LXH14MEW/LeavittOrthoGrandOpening-71.jpg?format=750w",
-            "webp": "",
-            "alt": "Community event photo",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": null
-          }
-        },
-        {
-          "name": "Support Team",
-          "position": "Operations",
-          "bio": "Helps keep the office running smoothly and supports patient care behind the scenes.",
-          "image": {
-            "src": "https://images.squarespace-cdn.com/content/v1/6026f3cbe22fb52d30f10a9a/1634319675010-18S7MHG8ILL4LIB116FY/LeavittOrthoGrandOpening-69.jpg?format=750w",
-            "webp": "",
-            "alt": "Team celebration at the office",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": null
-          }
-        }
-      ],
-      "component_options": {
-        "hash": "",
-        "component_padding": "full",
-        "component_margins": "none",
-        "hide_component": false
-      },
-      "has_bio": true,
-      "large_title": false,
-      "center_title": false,
-      "background": "bg1",
-      "add_texture": false,
-      "linear_gradient": "",
-      "preserve_image": true
-    },
-    {
       "acf_fc_layout": "single_image_slider",
       "title": "Our Office",
       "carousel_aria": "Office Tour Carousel",
       "slides": [
         {
-          "src": "https://images.squarespace-cdn.com/content/v1/6026f3cbe22fb52d30f10a9a/1615606620574-7OD1NB6QMQJ9347BHGT0/DSC_6442.jpg?format=1000w",
+          "src": "https://images.squarespace-cdn.com/content/v1/6026f3cbe22fb52d30f10a9a/1634318709826-Z5XLNT87CFO5BB3GPEDJ/LeavittOrthoGrandOpening-21.jpg",
           "webp": "",
-          "alt": "Waiting area and reception",
+          "alt": "Office interior and decor",
           "aria_hidden": false,
           "bgColor": "",
           "imageBackground": false,
@@ -809,9 +656,9 @@
           "loading_mask": "#eef6f8"
         },
         {
-          "src": "https://images.squarespace-cdn.com/content/v1/6026f3cbe22fb52d30f10a9a/1634319786985-T70KWEM7FOV5O3B7OI6G/LeavittOrthoGrandOpening-68.jpg?format=750w",
+          "src": "https://images.squarespace-cdn.com/content/v1/6026f3cbe22fb52d30f10a9a/1634318651074-432E4K3YUN75YPGFTTNS/LeavittOrthoGrandOpening-17.jpg?format=2500w",
           "webp": "",
-          "alt": "Office interior at grand opening",
+          "alt": "Treatment room with modern equipment",
           "aria_hidden": false,
           "bgColor": "",
           "imageBackground": false,
@@ -821,9 +668,9 @@
           "loading_mask": "#eef6f8"
         },
         {
-          "src": "https://images.squarespace-cdn.com/content/v1/6026f3cbe22fb52d30f10a9a/1634319772843-2W0PUMO7ZGPZJ8Z51GRF/LeavittOrthoGrandOpening-75.jpg?format=750w",
+          "src": "https://images.squarespace-cdn.com/content/v1/6026f3cbe22fb52d30f10a9a/1634318499594-YD48WNET6W1CS9YTJ2VS/LeavittOrthoGrandOpening-3.jpg?format=750w",
           "webp": "",
-          "alt": "Clinical treatment room and equipment",
+          "alt": "Waiting area and patient seating",
           "aria_hidden": false,
           "bgColor": "",
           "imageBackground": false,
@@ -833,9 +680,9 @@
           "loading_mask": "#eef6f8"
         },
         {
-          "src": "https://images.squarespace-cdn.com/content/v1/6026f3cbe22fb52d30f10a9a/1634319779413-S91EGB3UD6X2ECUEVCCD/LeavittOrthoGrandOpening-67.jpg?format=750w",
+          "src": "https://images.squarespace-cdn.com/content/v1/6026f3cbe22fb52d30f10a9a/1634319758500-RG1AHY1JJ9XD8BZ3VIZ8/LeavittOrthoGrandOpening-74.jpg?format=750w",
           "webp": "",
-          "alt": "Team interacting with patients at the office",
+          "alt": "Office open house and ribbon cutting",
           "aria_hidden": false,
           "bgColor": "",
           "imageBackground": false,
@@ -864,14 +711,14 @@
         {
           "has_heading": false,
           "heading": "",
-          "text": "Leavitt Orthodontics is active in local schools and community events. We host patient appreciation gatherings, sponsor school activities, and run contests like our coloring contest for local children. Download the Day-of-the-Dead coloring contest here: https://drleavittortho.com/s/Day-of-the-Dead-Coloring-Contest-1.pdf"
+          "text": "Leavitt Orthodontics enjoys giving back through school activities, patient appreciation events, and community fundraisers. Highlights include a coloring contest that supports local PTOs, pool parties for patients, teacher appreciation programs, and our open house ribbon cutting. Downloadable resources and contest materials are available on our site."
         }
       ],
       "accordion": [],
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/412929752_Hand_holding_blue_paper_cut_happy_smile_face_Posit.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/412929752_Hand_holding_blue_paper_cut_happy_smile_face_Posit.webp",
-        "alt": "Graphic representing community support",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/218715428_unity_of_paper_human_symbol.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/218715428_unity_of_paper_human_symbol.webp",
+        "alt": "Graphic representing community support by Leavitt Orthodontics",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -937,19 +784,17 @@
       "add_texture": false,
       "linear_gradient": "",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/258870461_Happy_girl_and_her_dad_during_a_dental_appointment.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/258870461_Happy_girl_and_her_dad_during_a_dental_appointment.webp",
-        "alt": "Family enjoying time together outside, inviting patients to schedule a consultation",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/399970203_Excited_millennial_Caucasian_couple_look_at_smartp.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/399970203_Excited_millennial_Caucasian_couple_look_at_smartp.webp",
+        "alt": "Enjoying time together",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
         "addLoader": false,
-        "objectPosition": "center",
+        "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "New Patients Hero"
-        }
+        "image_selection_hints": null
       },
       "reversed": false,
       "centered": true,
@@ -958,15 +803,15 @@
     },
     {
       "seo": {
-        "page_title": "About Us | Leavitt Orthodontics",
-        "page_description": "Learn about Leavitt Orthodontics in Pocatello, Idaho—our approach to care, Dr. Tyler Leavitt's background, and community involvement.",
-        "page_keywords": "Leavitt Orthodontics, Pocatello, Orthodontist, Braces, Invisalign",
+        "page_title": "About | Leavitt Orthodontics",
+        "page_description": "Learn about Leavitt Orthodontics in Pocatello: Dr. Tyler Leavitt, our team, community events, and patient-focused orthodontic care including Invisalign® and Br.",
+        "page_keywords": "Leavitt Orthodontics, Pocatello Orthodontist, Dr. Tyler Leavitt, Invisalign, Braces, Community",
         "additional_settings": false,
         "social_meta": {
           "og_meta": {
-            "title": "About Us | Leavitt Orthodontics",
-            "description": "Learn about Leavitt Orthodontics in Pocatello, Idaho—our approach to care, Dr. Tyler Leavitt's background, and community involvement.",
-            "image": "https://images.squarespace-cdn.com/content/v1/6026f3cbe22fb52d30f10a9a/1616451706951-6PZF50VXPTKRBXEV93NW/IMG_4713.jpg"
+            "title": "About | Leavitt Orthodontics",
+            "description": "Learn about Leavitt Orthodontics in Pocatello: Dr. Tyler Leavitt, our team, community events, and patient-focused orthodontic care including Invisalign® and Br.",
+            "image": "https://images.squarespace-cdn.com/content/v1/6026f3cbe22fb52d30f10a9a/1615606620574-7OD1NB6QMQJ9347BHGT0/DSC_6442.jpg?format=1000w"
           }
         }
       }
@@ -992,9 +837,9 @@
       },
       "media_type": "image",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/48850703_Teenage_girl_happy_to_visit_the_dentist.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/48850703_Teenage_girl_happy_to_visit_the_dentist.webp",
-        "alt": "Smiling family welcomed at Lakeshore Orthodontics front desk",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/84442233_Father_With_Daughter_At_Reception_Of_Dentists_Surg.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/84442233_Father_With_Daughter_At_Reception_Of_Dentists_Surg.webp",
+        "alt": "Bright, welcoming orthodontic office reception with smiling team",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1002,7 +847,9 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": null
+        "image_selection_hints": {
+          "context_category": "New Patients Hero"
+        }
       },
       "video": {
         "src": "",
@@ -1013,24 +860,24 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Contact & Scheduling",
+      "title": "What to expect at your first visit",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "LEAVITT ORTHODONTICS is at 1455 Bench Rd. STE. A, Pocatello, ID 83201. To schedule a free consultation, call (208) 237-3330 or use our online form to request an appointment."
+          "text": "Your first visit begins with a friendly welcome and a chance to meet Dr. Tyler Leavitt and the team. We will review your concerns, take a complete oral exam and necessary X-rays, and answer your questions so you leave with a clear understanding of your options."
         },
         {
           "has_heading": false,
           "heading": "",
-          "text": "Our office hours are Monday–Friday, 8:00 am - 5:00 pm. We accept new patients of all ages and will walk you through treatment options, insurance, and financing when you arrive."
+          "text": "During the consultation we’ll discuss recommended treatments, timing, and estimated costs. Bring any recent dental records or insurance information; expect a relaxed, thorough visit with time to plan the next steps and schedule a complimentary consultation if you'd like to move forward."
         }
       ],
       "accordion": [],
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/285911421_Client_of_private_dentistry_smiling_while_singing.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/285911421_Client_of_private_dentistry_smiling_while_singing.webp",
-        "alt": "Father with daughter at reception of dentist's surgery",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/99326519_Professional_dentist_office.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/99326519_Professional_dentist_office.webp",
+        "alt": "Dr. Tyler Leavitt smiling in clinic, portrait",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1038,7 +885,9 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": null
+        "image_selection_hints": {
+          "context_category": "Initial Visit"
+        }
       },
       "video": {
         "type": "embedded",
@@ -1067,13 +916,13 @@
     },
     {
       "acf_fc_layout": "block_text_simple",
-      "title": "New Patient Messaging",
+      "title": "Payment & Insurance",
       "paragraphs": [
         {
-          "text": "One Doctor. One Location. One Focus— YOU! We want your experience to be comfortable, fun and enjoyable. We can't wait to see you and your smile."
+          "text": "We accept most major insurance plans and will file claims electronically to make billing easier. Our team will verify benefits and answer any questions about coverage before treatment begins."
         },
         {
-          "text": "Schedule A Free Consultation Today! All the information so that you can make the right choice. Browse our patient resources, take a virtual tour, or contact us with any questions before your visit."
+          "text": "Flexible payment plans are available, including options that let you start with zero down. Learn more about our financing options on the financing page: /financing."
         }
       ],
       "component_options": {
@@ -1091,19 +940,19 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Meet Dr. Leavitt",
+      "title": "New Patient Forms",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "Dr. Leavitt leads our team with a patient-first approach. Learn about his background, clinical focus, and what you can expect at your first appointment on the Meet Dr. Leavitt page."
+          "text": "To save time at your appointment, complete our online forms or download PDFs from the contact page. Typical fields include name, contact details, medical history, and basic appointment information. Some forms use Google reCAPTCHA for security."
         }
       ],
       "accordion": [],
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/96012689_happy_male_dentist_at_dental_clinic_office.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/96012689_happy_male_dentist_at_dental_clinic_office.webp",
-        "alt": "Patient filling out orthodontic health history forms online",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/306422676_Female_visitor_filling_out_medicine_documents.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/306422676_Female_visitor_filling_out_medicine_documents.webp",
+        "alt": "Patients and staff during an office open house, friendly reception area",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1111,7 +960,9 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": null
+        "image_selection_hints": {
+          "context_category": "Contact Hero"
+        }
       },
       "video": {
         "type": "embedded",
@@ -1122,14 +973,29 @@
           "button": {
             "type": "anchor",
             "style": "secondary",
-            "label": "Meet Dr. Leavitt",
-            "aria_label": "meet dr leavitt",
-            "href": "https://drleavittortho.com/resource-center/meet-dr-leavitt",
+            "label": "Complete Online Forms",
+            "aria_label": "complete online forms",
+            "href": "https://drleavittortho.com/contact",
             "path": "",
             "hash": "",
             "external": true,
             "include_icon": false,
-            "icon": "tooth-outline",
+            "icon": "envelope",
+            "color": "black"
+          }
+        },
+        {
+          "button": {
+            "type": "anchor",
+            "style": "secondary",
+            "label": "Invisalign Onboarding",
+            "aria_label": "invisalign onboarding resources",
+            "href": "https://drleavittortho.com/resource-center/leavitt-orthodontics-invisalign-onboarding",
+            "path": "",
+            "hash": "",
+            "external": true,
+            "include_icon": false,
+            "icon": "tooth-two-v1",
             "color": "black"
           }
         }
@@ -1185,19 +1051,17 @@
       "add_texture": false,
       "linear_gradient": "",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/68999753_Pediatric_dentist_examining_a_little_boys_teeth.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/68999753_Pediatric_dentist_examining_a_little_boys_teeth.webp",
-        "alt": "Family enjoying time together outside, inviting patients to schedule a consultation",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/183240584_Doctor_and_patient_shaking_hands.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/183240584_Doctor_and_patient_shaking_hands.webp",
+        "alt": "Enjoying time together",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
         "addLoader": false,
-        "objectPosition": "center",
+        "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "New Patients Hero"
-        }
+        "image_selection_hints": null
       },
       "reversed": false,
       "centered": true,
@@ -1207,14 +1071,14 @@
     {
       "seo": {
         "page_title": "Get Started | Leavitt Orthodontics",
-        "page_description": "Start your care with Leavitt Orthodontics in Pocatello. Schedule a free consultation, find office hours, and access patient resources online.",
-        "page_keywords": "Leavitt Orthodontics, Pocatello, new patient, consultation, orthodontics",
+        "page_description": "Start your orthodontic journey with a free consultation. Learn what to expect, complete new patient forms, and explore financing options.",
+        "page_keywords": "Leavitt Orthodontics, new patient, consultation, forms, financing, Invisalign, Pocatello",
         "additional_settings": false,
         "social_meta": {
           "og_meta": {
             "title": "Get Started | Leavitt Orthodontics",
-            "description": "Start your care with Leavitt Orthodontics in Pocatello. Schedule a free consultation, find office hours, and access patient resources online.",
-            "image": "https://d25xczrsvvsqdg.cloudfront.net/bvweyes-blog-hero-2.jpg"
+            "description": "Start your orthodontic journey with a free consultation. Learn what to expect, complete new patient forms, and explore financing options.",
+            "image": "https://images.squarespace-cdn.com/content/v1/6026f3cbe22fb52d30f10a9a/1615606620574-7OD1NB6QMQJ9347BHGT0/DSC_6442.jpg?format=1000w"
           }
         }
       }
@@ -1235,14 +1099,14 @@
         "hash": "#form",
         "external": false,
         "include_icon": false,
-        "icon": "pencil",
+        "icon": "phone",
         "color": "primary"
       },
       "media_type": "image",
       "image": {
         "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/16042402_opened_mouth_and_dentists_hands_with_instruments.jpg",
         "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/16042402_opened_mouth_and_dentists_hands_with_instruments.webp",
-        "alt": "Bright, welcoming orthodontic office interior with smiling staff and patients",
+        "alt": "Smiling patients of all ages at Lakeshore Orthodontics",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1263,19 +1127,24 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Damon Brackets",
+      "title": "Invisalign<sup>®</sup>",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "Perfect smiles start with precise bracket placement. Damon brackets are positioned to support a natural smile arc and efficient tooth movement."
+          "text": "At Leavitt Orthodontics, Dr. Tyler Leavitt offers Invisalign<sup>®</sup> clear aligners as a discreet, removable option. Advanced 3D imaging helps us design a precise series of aligners that move teeth gently and predictably."
+        },
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "With aligners you can brush and floss normally and enjoy fewer dietary restrictions. New patients can watch our Invisalign onboarding video to learn what to expect during treatment."
         }
       ],
       "accordion": [],
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/48486569_teeth_with_braces.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/48486569_teeth_with_braces.webp",
-        "alt": "Close-up of a smiling person's mouth showing white teeth with a highlighted smile line",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/211024714_Beautiful_Patient_Holding_Clear_Orthodontic_Aligne.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/211024714_Beautiful_Patient_Holding_Clear_Orthodontic_Aligne.webp",
+        "alt": "Close-up of Invisalign aligners being placed on teeth",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1284,7 +1153,158 @@
         "forceAlt": "",
         "loading_mask": "",
         "image_selection_hints": {
-          "context_category": "Teen"
+          "context_category": "Treatments Hero"
+        }
+      },
+      "video": {
+        "type": "embedded",
+        "src": ""
+      },
+      "buttons": [
+        {
+          "button": {
+            "type": "anchor",
+            "style": "secondary",
+            "label": "Watch Onboarding Video",
+            "aria_label": "Leavitt Orthodontics Invisalign onboarding video",
+            "href": "https://drleavittortho.com/resource-center/leavitt-orthodontics-invisalign-onboarding",
+            "path": "",
+            "hash": "",
+            "external": true,
+            "include_icon": false,
+            "icon": "youtube",
+            "color": "primary"
+          }
+        }
+      ],
+      "component_options": {
+        "hash": "invisalign",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "reverse": false,
+      "has_buttons": true,
+      "has_accordion": false,
+      "is_dynamic": false,
+      "use_video": false,
+      "large_image": false,
+      "has_background": false,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "large_title": false,
+      "title_color": "text",
+      "title_underline_color": "none"
+    },
+    {
+      "acf_fc_layout": "image_text",
+      "title": "Metal Braces",
+      "paragraphs": [
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "Dr. Tyler Leavitt provides durable metal braces, a reliable choice for a wide range of alignment needs. Braces use brackets and wires to apply steady forces and correct bite and tooth position."
+        }
+      ],
+      "accordion": [
+        {
+          "header": "Traditional Metal Braces",
+          "paragraphs": [
+            {
+              "text": "Durable and cost-effective, metal braces use small brackets and wires to gradually move teeth into place."
+            }
+          ],
+          "image": {
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/48486569_teeth_with_braces.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/48486569_teeth_with_braces.webp",
+            "alt": "Dental Checkup with Braces",
+            "image_selection_hints": {
+              "context_category": "Treatments Hero"
+            }
+          }
+        },
+        {
+          "header": "Ceramic Braces",
+          "paragraphs": [
+            {
+              "text": "Ceramic braces blend with your tooth color for a less noticeable option without sacrificing effectiveness."
+            }
+          ],
+          "image": {
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/59969131_Young_black_woman_smiling_with_braces.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/59969131_Young_black_woman_smiling_with_braces.webp",
+            "alt": "Smiling Woman with Clear Aligner",
+            "image_selection_hints": {
+              "context_category": "Treatments Hero"
+            }
+          }
+        }
+      ],
+      "image": {
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/25182244_Pretty_girl_wearing_braces_smiling_cheerfully.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/25182244_Pretty_girl_wearing_braces_smiling_cheerfully.webp",
+        "alt": "Two stylish smiling teens taking selfie with braces",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": {
+          "context_category": "Treatments Hero"
+        }
+      },
+      "video": {
+        "type": "embedded",
+        "src": ""
+      },
+      "buttons": [],
+      "component_options": {
+        "hash": "braces",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "reverse": true,
+      "has_buttons": false,
+      "has_accordion": true,
+      "is_dynamic": false,
+      "use_video": false,
+      "large_image": false,
+      "has_background": true,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "large_title": false,
+      "title_color": "text",
+      "title_underline_color": "none"
+    },
+    {
+      "acf_fc_layout": "image_text",
+      "title": "Damon Brackets",
+      "paragraphs": [
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "The Damon bracket system is one of the appliance options we use to enhance smile aesthetics. By positioning brackets to support the natural smile arc, Damon appliances can help achieve a fuller, more natural-looking smile in many cases."
+        }
+      ],
+      "accordion": [],
+      "image": {
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/196907428.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/196907428.webp",
+        "alt": "Close-up of a smiling person's mouth showing white teeth, with a yellow outline highlighting the smile line.",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": {
+          "context_category": "Treatments Hero"
         }
       },
       "video": {
@@ -1314,177 +1334,19 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Damon System",
-      "paragraphs": [
-        {
-          "has_heading": false,
-          "heading": "",
-          "text": "The Damon system uses self-ligating brackets designed for efficient movement and patient comfort, often reducing treatment visits."
-        }
-      ],
-      "accordion": [],
-      "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/1434442_happy_teen_girl_smiling.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/1434442_happy_teen_girl_smiling.webp",
-        "alt": "Close-up of a smile with teeth wearing braces",
-        "aria_hidden": false,
-        "bgColor": "",
-        "imageBackground": false,
-        "addLoader": false,
-        "objectPosition": "",
-        "forceAlt": "",
-        "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Teen"
-        }
-      },
-      "video": {
-        "type": "embedded",
-        "src": ""
-      },
-      "buttons": [],
-      "component_options": {
-        "hash": "damon-system",
-        "component_padding": "half",
-        "component_margins": "none",
-        "hide_component": false
-      },
-      "reverse": true,
-      "has_buttons": false,
-      "has_accordion": false,
-      "is_dynamic": false,
-      "use_video": false,
-      "large_image": false,
-      "has_background": false,
-      "background": "bg1",
-      "linear_gradient": "",
-      "add_texture": false,
-      "large_title": false,
-      "title_color": "text",
-      "title_underline_color": "none"
-    },
-    {
-      "acf_fc_layout": "image_text",
-      "title": "Invisalign<sup>®</sup>",
-      "paragraphs": [
-        {
-          "has_heading": false,
-          "heading": "",
-          "text": "Clear, removable aligners use advanced 3D imaging to fit you precisely and move teeth with predictable steps."
-        },
-        {
-          "has_heading": false,
-          "heading": "",
-          "text": "Enjoy brushing, flossing, and eating without bracket restrictions while working toward your best smile."
-        }
-      ],
-      "accordion": [],
-      "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/163056663_Happy_young_woman_holding_case_with_transparent_te.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/163056663_Happy_young_woman_holding_case_with_transparent_te.webp",
-        "alt": "Open box containing clear aligners and accessories",
-        "aria_hidden": false,
-        "bgColor": "",
-        "imageBackground": false,
-        "addLoader": false,
-        "objectPosition": "",
-        "forceAlt": "",
-        "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Adult"
-        }
-      },
-      "video": {
-        "type": "embedded",
-        "src": ""
-      },
-      "buttons": [],
-      "component_options": {
-        "hash": "invisalign",
-        "component_padding": "half",
-        "component_margins": "none",
-        "hide_component": false
-      },
-      "reverse": false,
-      "has_buttons": false,
-      "has_accordion": false,
-      "is_dynamic": false,
-      "use_video": false,
-      "large_image": false,
-      "has_background": false,
-      "background": "bg1",
-      "linear_gradient": "",
-      "add_texture": false,
-      "large_title": false,
-      "title_color": "text",
-      "title_underline_color": "none"
-    },
-    {
-      "acf_fc_layout": "image_text",
-      "title": "Metal Braces",
-      "paragraphs": [
-        {
-          "has_heading": false,
-          "heading": "",
-          "text": "Durable, effective, and cost-conscious, metal braces remain a reliable choice for many patients. Flexible payment options are available to make treatment accessible."
-        }
-      ],
-      "accordion": [],
-      "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/29222435_Cute_Latino_Girl_Smiling_with_Braces.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/29222435_Cute_Latino_Girl_Smiling_with_Braces.webp",
-        "alt": "Patient smiling with braces",
-        "aria_hidden": false,
-        "bgColor": "",
-        "imageBackground": false,
-        "addLoader": false,
-        "objectPosition": "",
-        "forceAlt": "",
-        "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Teen"
-        }
-      },
-      "video": {
-        "type": "embedded",
-        "src": ""
-      },
-      "buttons": [],
-      "component_options": {
-        "hash": "metal-braces",
-        "component_padding": "half",
-        "component_margins": "none",
-        "hide_component": false
-      },
-      "reverse": true,
-      "has_buttons": false,
-      "has_accordion": false,
-      "is_dynamic": false,
-      "use_video": false,
-      "large_image": false,
-      "has_background": false,
-      "background": "bg1",
-      "linear_gradient": "",
-      "add_texture": false,
-      "large_title": false,
-      "title_color": "text",
-      "title_underline_color": "none"
-    },
-    {
-      "acf_fc_layout": "image_text",
       "title": "Traditional Brackets",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "Traditional bracket placement can create a flatter smile line. We evaluate bracket position to balance function and the aesthetics of your smile."
+          "text": "Traditional brackets remain highly effective for complex corrections. Their placement and mechanics let us manage tooth movement precisely, though bracket position and mechanics can influence smile shape."
         }
       ],
       "accordion": [],
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/40515651_teeth_with_retainer.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/40515651_teeth_with_retainer.webp",
-        "alt": "Close-up of upper front teeth with orthodontic braces and clear brackets",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/232786842_tooth_model_with_metal_wire_dental_braces.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/232786842_tooth_model_with_metal_wire_dental_braces.webp",
+        "alt": "Close-up of a person's upper front teeth with orthodontic braces and clear brackets.",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1493,7 +1355,7 @@
         "forceAlt": "",
         "loading_mask": "",
         "image_selection_hints": {
-          "context_category": "Teen"
+          "context_category": "Treatments Hero"
         }
       },
       "video": {
@@ -1507,7 +1369,7 @@
         "component_margins": "none",
         "hide_component": false
       },
-      "reverse": false,
+      "reverse": true,
       "has_buttons": false,
       "has_accordion": false,
       "is_dynamic": false,
@@ -1528,14 +1390,14 @@
         {
           "has_heading": false,
           "heading": "",
-          "text": "Smile arc protection focuses on bracket placement to preserve a natural curve to the upper teeth, improving aesthetics and tooth display."
+          "text": "Smile arc protection is a bracket-placement philosophy that preserves the natural curve of the smile. By planning bracket position with the smile arc in mind, we aim to create a more natural, aesthetic result."
         }
       ],
       "accordion": [],
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/196907428.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/196907428.webp",
-        "alt": "Braces viewed close-up showing alignment and smile curve",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/115662795.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/115662795.webp",
+        "alt": "Close-up of a person's smile showing upper and lower teeth, with a yellow line indicating the gum line.",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1544,7 +1406,7 @@
         "forceAlt": "",
         "loading_mask": "",
         "image_selection_hints": {
-          "context_category": "Experienced"
+          "context_category": "Treatments Hero"
         }
       },
       "video": {
@@ -1554,62 +1416,6 @@
       "buttons": [],
       "component_options": {
         "hash": "smile-arc-protection",
-        "component_padding": "half",
-        "component_margins": "none",
-        "hide_component": false
-      },
-      "reverse": true,
-      "has_buttons": false,
-      "has_accordion": false,
-      "is_dynamic": false,
-      "use_video": false,
-      "large_image": false,
-      "has_background": false,
-      "background": "bg1",
-      "linear_gradient": "",
-      "add_texture": false,
-      "large_title": false,
-      "title_color": "text",
-      "title_underline_color": "none"
-    },
-    {
-      "acf_fc_layout": "image_text",
-      "title": "Retainers Overview",
-      "paragraphs": [
-        {
-          "has_heading": false,
-          "heading": "",
-          "text": "Retainers hold teeth in their new positions while bone and soft tissue stabilize. Wearing them as prescribed is the best way to keep your smile long term."
-        },
-        {
-          "has_heading": false,
-          "heading": "",
-          "text": "Teeth can shift over time from normal forces like chewing and speaking; your retainer schedule will be tailored to your needs."
-        }
-      ],
-      "accordion": [],
-      "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/56159139_hands_holding_retainer_for_teeth_and_tooth_tray.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/56159139_hands_holding_retainer_for_teeth_and_tooth_tray.webp",
-        "alt": "Orthodontic patient holding retainer case",
-        "aria_hidden": false,
-        "bgColor": "",
-        "imageBackground": false,
-        "addLoader": false,
-        "objectPosition": "",
-        "forceAlt": "",
-        "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Retainers"
-        }
-      },
-      "video": {
-        "type": "embedded",
-        "src": ""
-      },
-      "buttons": [],
-      "component_options": {
-        "hash": "retainers-overview",
         "component_padding": "half",
         "component_margins": "none",
         "hide_component": false
@@ -1630,36 +1436,24 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Essix Retainers",
+      "title": "Essix Retainer",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "Essix retainers are clear, custom-fit retainers made in-office. They’re comfortable and nearly invisible, though they may need occasional replacement."
-        }
-      ],
-      "accordion": [
+          "text": "Essix retainers are clear, custom-fit appliances made to maintain your smile. They are nearly invisible, comfortable, and easy to wear for daytime or nighttime retention."
+        },
         {
-          "header": "Bonded or Fixed Retainers",
-          "paragraphs": [
-            {
-              "text": "Bonded retainers are attached to the back of teeth for long-term stability. They don’t require removal but need careful cleaning to maintain oral health."
-            }
-          ],
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/211024714_Beautiful_Patient_Holding_Clear_Orthodontic_Aligne.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/211024714_Beautiful_Patient_Holding_Clear_Orthodontic_Aligne.webp",
-            "alt": "Young woman smiling while holding an orthodontic retainer",
-            "image_selection_hints": {
-              "context_category": "Retainers"
-            }
-          }
+          "has_heading": false,
+          "heading": "",
+          "text": "Because Essix retainers are removable, they require routine care and occasional replacement if worn or damaged. We can help you choose the best retainer for your needs."
         }
       ],
+      "accordion": [],
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/192367510_Invisible_dental_orthodontics.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/192367510_Invisible_dental_orthodontics.webp",
-        "alt": "Beautiful young woman smiling and holding orthodontic retainer",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/62056177_Hand_holding_a_translucent_upper_essix_retainer.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/62056177_Hand_holding_a_translucent_upper_essix_retainer.webp",
+        "alt": "The Importance Of A Retainer",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1677,14 +1471,131 @@
       },
       "buttons": [],
       "component_options": {
-        "hash": "essix-retainers",
+        "hash": "essix-retainer",
         "component_padding": "half",
         "component_margins": "none",
         "hide_component": false
       },
       "reverse": true,
       "has_buttons": false,
-      "has_accordion": true,
+      "has_accordion": false,
+      "is_dynamic": false,
+      "use_video": false,
+      "large_image": false,
+      "has_background": false,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "large_title": false,
+      "title_color": "text",
+      "title_underline_color": "none"
+    },
+    {
+      "acf_fc_layout": "image_text",
+      "title": "Bonded (Fixed) Retainer",
+      "paragraphs": [
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "Bonded retainers are thin wires permanently attached to the back of teeth. They offer continuous support without removal, which many patients prefer for long-term stability."
+        },
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "Fixed retainers require dedicated cleaning care to keep the teeth and gums healthy. Our team will show you how to floss and care for a bonded retainer properly."
+        }
+      ],
+      "accordion": [],
+      "image": {
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/491816254_Closeup_of_a_permanent_bonded_retainer_on_upper_te.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/491816254_Closeup_of_a_permanent_bonded_retainer_on_upper_te.webp",
+        "alt": "Beautiful young Asian woman smiling and holding orthodontic retainer",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": {
+          "context_category": "Retainers"
+        }
+      },
+      "video": {
+        "type": "embedded",
+        "src": ""
+      },
+      "buttons": [],
+      "component_options": {
+        "hash": "bonded-retainers",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "reverse": false,
+      "has_buttons": false,
+      "has_accordion": false,
+      "is_dynamic": false,
+      "use_video": false,
+      "large_image": false,
+      "has_background": false,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "large_title": false,
+      "title_color": "text",
+      "title_underline_color": "none"
+    },
+    {
+      "acf_fc_layout": "image_text",
+      "title": "Retainer Replacement Service",
+      "paragraphs": [
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "If your retainer is lost or damaged, call our office right away. We will work quickly to get you a replacement or discuss next steps to protect your smile."
+        },
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "Act quickly: teeth can shift fast without retainer support. The sooner you replace or repair the retainer, the better the chance of preserving your results."
+        },
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "Keeping your smile beautiful is a team effort. Follow home care instructions, wear your retainer as directed, and contact us with any concerns. We’re here to help."
+        }
+      ],
+      "accordion": [],
+      "image": {
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/276481701_Retainer_blue_on_a_white_background_isolated.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/276481701_Retainer_blue_on_a_white_background_isolated.webp",
+        "alt": "Office staff ready to assist patients",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": {
+          "context_category": "Retainers"
+        }
+      },
+      "video": {
+        "type": "embedded",
+        "src": ""
+      },
+      "buttons": [],
+      "component_options": {
+        "hash": "retainer-replacement",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "reverse": true,
+      "has_buttons": false,
+      "has_accordion": false,
       "is_dynamic": false,
       "use_video": false,
       "large_image": false,
@@ -1727,19 +1638,17 @@
       "add_texture": false,
       "linear_gradient": "",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/145673624_Happy_family_with_kids.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/145673624_Happy_family_with_kids.webp",
-        "alt": "Family enjoying time together outside, inviting patients to schedule a consultation",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/59765810_Young_smiling_couple_listening_to_salesman_on_the.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/59765810_Young_smiling_couple_listening_to_salesman_on_the.webp",
+        "alt": "Enjoying time together",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
         "addLoader": false,
-        "objectPosition": "center",
+        "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "New Patients Hero"
-        }
+        "image_selection_hints": null
       },
       "reversed": false,
       "centered": true,
@@ -1749,14 +1658,14 @@
     {
       "seo": {
         "page_title": "Treatments | Leavitt Orthodontics",
-        "page_description": "Explore Leavitt Orthodontics' treatment options: braces, Invisalign®, retainers and advanced digital imaging for patients of all ages.",
-        "page_keywords": "orthodontics, braces, Invisalign, retainers, Damon brackets, retainers Pocatello, Leavitt Orthodontics",
+        "page_description": "Learn about treatments at Leavitt Orthodontics: Invisalign®, metal braces, Damon brackets, retainers and retainer replacement. Schedule a consultation online.",
+        "page_keywords": "Invisalign, braces, retainers, Damon brackets, orthodontics, Leavitt Orthodontics, Pocatello",
         "additional_settings": false,
         "social_meta": {
           "og_meta": {
             "title": "Treatments | Leavitt Orthodontics",
-            "description": "Explore Leavitt Orthodontics' treatment options: braces, Invisalign®, retainers and advanced digital imaging for patients of all ages.",
-            "image": "https://images.squarespace-cdn.com/content/v1/6026f3cbe22fb52d30f10a9a/1615606620574-7OD1NB6QMQJ9347BHGT0/DSC_6442.jpg?format=1000w"
+            "description": "Explore Invisalign®, braces, retainers and our treatment options at Leavitt Orthodontics. Schedule a consultation online.",
+            "image": "https://d25xczrsvvsqdg.cloudfront.net/holt-orthodontics-faq-hero.jpg"
           }
         }
       }
@@ -1784,7 +1693,7 @@
       "image": {
         "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/600329009_Man_making_an_appointment_with_medical_staffs_at_r.jpg",
         "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/600329009_Man_making_an_appointment_with_medical_staffs_at_r.webp",
-        "alt": "Leavitt Orthodontics team at office grand opening, smiling staff in front of clinic",
+        "alt": "Leavitt Orthodontics reception team smiling in a bright, welcoming office",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1792,7 +1701,9 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": null
+        "image_selection_hints": {
+          "context_category": "Contact Hero"
+        }
       },
       "video": {
         "src": "",
@@ -1803,7 +1714,7 @@
     },
     {
       "acf_fc_layout": "map",
-      "title": "Leavitt Orthodontics",
+      "title": "LEAVITT ORTHODONTICS",
       "component_options": {
         "hash": "",
         "component_padding": "half",
@@ -1815,15 +1726,28 @@
       "linear_gradient": ""
     },
     {
+      "acf_fc_layout": "form",
+      "form": [
+        1025
+      ],
+      "component_options": {
+        "hash": "form",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "stack": false
+    },
+    {
       "seo": {
         "page_title": "Contact Leavitt Orthodontics | Pocatello Orthodontist",
-        "page_description": "Contact Leavitt Orthodontics in Pocatello, ID to schedule a consultation or ask questions. Friendly care for kids, teens, and adults. Call (208) 237-3330.",
-        "page_keywords": "Leavitt Orthodontics contact, Pocatello orthodontist, orthodontic appointment, Leavitt contact",
+        "page_description": "Contact Leavitt Orthodontics in Pocatello to schedule a free consultation. Personalized care, flexible payment plans, certified Invisalign provider.",
+        "page_keywords": "Leavitt Orthodontics contact, Pocatello orthodontist, orthodontic appointment, schedule consultation, Invisalign provider",
         "additional_settings": false,
         "social_meta": {
           "og_meta": {
             "title": "Contact Leavitt Orthodontics | Pocatello Orthodontist",
-            "description": "Contact Leavitt Orthodontics in Pocatello, ID to schedule a consultation or ask questions. Friendly care for kids, teens, and adults. Call (208) 237-3330.",
+            "description": "Contact Leavitt Orthodontics in Pocatello to schedule a free consultation. Personalized care, flexible payment plans, certified Invisalign provider.",
             "image": "https://images.squarespace-cdn.com/content/v1/6026f3cbe22fb52d30f10a9a/1615606620574-7OD1NB6QMQJ9347BHGT0/DSC_6442.jpg?format=1000w"
           }
         }
@@ -1850,9 +1774,9 @@
       },
       "media_type": "image",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/1269341883_Wooden_question_mark_leaning_against_wall_in_room.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/1269341883_Wooden_question_mark_leaning_against_wall_in_room.webp",
-        "alt": "Patient smiling with orthodontic braces in our office",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/479238532_Man_Dental_Teeth_Question_Mark.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/479238532_Man_Dental_Teeth_Question_Mark.webp",
+        "alt": "Smiling patient in an orthodontic treatment chair",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1860,7 +1784,9 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": null
+        "image_selection_hints": {
+          "context_category": "FAQ Hero"
+        }
       },
       "video": {
         "src": "",
@@ -1871,12 +1797,12 @@
     },
     {
       "acf_fc_layout": "accordion",
-      "title": "Patient FAQs — treatments & scheduling",
+      "title": "FAQ",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "Find answers to common questions about orthodontic treatments, appointment scheduling, and payment options at Leavitt Orthodontics."
+          "text": "Find clear, practical answers to common questions about braces, Invisalign<sup>®</sup>, appointments, payments, and what to do in an emergency at Leavitt Orthodontics in Pocatello."
         }
       ],
       "accordion": [
@@ -1884,7 +1810,7 @@
           "header": "What orthodontic treatments do you offer?",
           "paragraphs": [
             {
-              "text": "We provide traditional metal braces, ceramic (tooth-colored) braces, and Invisalign<sup>®</sup> clear aligners for teens and adults. We also design custom retainers and offer early treatment when dental development suggests it may help."
+              "text": "We provide traditional metal and clear ceramic braces for children, teens, and adults, Invisalign<sup>®</sup> clear aligners for discreet treatment, and custom retainers to protect your results. At your first visit we’ll review options and recommend the best plan for your goals."
             }
           ],
           "has_media": false,
@@ -1892,7 +1818,7 @@
           "image": {
             "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/343321244_Young_beautiful_brunette_woman_holding_dental_alig.jpg",
             "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/343321244_Young_beautiful_brunette_woman_holding_dental_alig.webp",
-            "alt": "Happy family portrait in a bright orthodontic office",
+            "alt": "Family smiling after orthodontic treatment",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -1900,10 +1826,12 @@
             "objectPosition": "",
             "forceAlt": "",
             "loading_mask": "",
-            "image_selection_hints": null
+            "image_selection_hints": {
+              "context_category": "Treatments Hero"
+            }
           },
           "video": {
-            "type": "embedded",
+            "type": "file",
             "src": ""
           }
         },
@@ -1911,15 +1839,15 @@
           "header": "At what age should my child see an orthodontist?",
           "paragraphs": [
             {
-              "text": "The American Association of Orthodontists recommends an initial evaluation by age 7. Early visits let us watch development and, if needed, recommend timely treatment that can simplify care later."
+              "text": "The American Association of Orthodontists recommends an evaluation by age 7. Early visits let us monitor jaw and tooth development and, when needed, begin simple treatments that can reduce future complexity."
             }
           ],
           "has_media": false,
           "media_type": "image",
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/437682950_Hispanic_teenager_girl_with_dental_braces_wearing.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/437682950_Hispanic_teenager_girl_with_dental_braces_wearing.webp",
-            "alt": "Orthodontic consultation in a modern treatment room",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/29222435_Cute_Latino_Girl_Smiling_with_Braces.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/29222435_Cute_Latino_Girl_Smiling_with_Braces.webp",
+            "alt": "Parent and child smiling at the orthodontist",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -1927,10 +1855,12 @@
             "objectPosition": "",
             "forceAlt": "",
             "loading_mask": "",
-            "image_selection_hints": null
+            "image_selection_hints": {
+              "context_category": "Kid"
+            }
           },
           "video": {
-            "type": "embedded",
+            "type": "file",
             "src": ""
           }
         },
@@ -1938,15 +1868,15 @@
           "header": "How long does treatment usually take?",
           "paragraphs": [
             {
-              "text": "Treatment length varies by the issue being corrected. Many patients complete orthodontic care in 12 to 24 months, but we will give a personalized timeline after your initial exam and records."
+              "text": "Treatment time depends on the complexity of the case. Many patients complete active treatment in about 12 to 24 months. During your consultation we’ll create a personalized timeline and explain what to expect at each stage."
             }
           ],
           "has_media": false,
           "media_type": "image",
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/893343389_Latin_female_teenager_with_braces_buying_online_in.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/893343389_Latin_female_teenager_with_braces_buying_online_in.webp",
-            "alt": "Orthodontic team discussing treatment plans",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/181602708_Happy_smile_of_young_woman_with_dental_braces.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/181602708_Happy_smile_of_young_woman_with_dental_braces.webp",
+            "alt": "Orthodontic team reviewing a treatment plan",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -1954,26 +1884,28 @@
             "objectPosition": "",
             "forceAlt": "",
             "loading_mask": "",
-            "image_selection_hints": null
+            "image_selection_hints": {
+              "context_category": "Experienced"
+            }
           },
           "video": {
-            "type": "embedded",
+            "type": "file",
             "src": ""
           }
         },
         {
-          "header": "What payment and insurance options are available?",
+          "header": "How do I care for braces, aligners, and what should I do in an emergency?",
           "paragraphs": [
             {
-              "text": "We accept most major dental insurance plans and offer flexible monthly payment arrangements. Our team will review your benefits and present financing options to fit your budget."
+              "text": "For braces, avoid hard or sticky foods, brush after every meal, and use a floss threader to clean between wires. For Invisalign<sup>®</sup>, wear your aligners 20 to 22 hours daily, clean trays with a soft brush and lukewarm water, and remove them for eating. If a bracket becomes loose or a wire is poking, use orthodontic wax to reduce irritation and call us for a repair. For severe pain, uncontrolled bleeding, or suspected broken appliance, contact our office right away."
             }
           ],
           "has_media": false,
           "media_type": "image",
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/100592748_Dentist_examining_a_patients_teeth_in_the_dentist.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/100592748_Dentist_examining_a_patients_teeth_in_the_dentist.webp",
-            "alt": "Patient discussing payment options at the front desk",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/45615865_Close_up_of_purple_dental_braces_and_toothbrush_is.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/45615865_Close_up_of_purple_dental_braces_and_toothbrush_is.webp",
+            "alt": "Close-up of orthodontic braces care tools",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -1981,26 +1913,28 @@
             "objectPosition": "",
             "forceAlt": "",
             "loading_mask": "",
-            "image_selection_hints": null
+            "image_selection_hints": {
+              "context_category": "Braces care"
+            }
           },
           "video": {
-            "type": "embedded",
+            "type": "file",
             "src": ""
           }
         },
         {
-          "header": "How can I schedule an appointment?",
+          "header": "What payment and insurance options are available, and how can I schedule an appointment?",
           "paragraphs": [
             {
-              "text": "You can request an appointment using our online contact form at https://drleavittortho.com/contact. The form lets you tell us about preferred times and the reason for your visit so we can find the best appointment for your family."
+              "text": "We offer flexible monthly payment plans and accept most major dental insurance plans. Our front desk will walk you through coverage and out-of-pocket estimates. To schedule, call (208) 237-3330 or request an appointment online at https://drleavittortho.com/contact and we’ll find a time that fits your schedule."
             }
           ],
           "has_media": false,
           "media_type": "image",
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/416851939_Health_care_cost_Doctor_in_surgical_gloves_holding.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/416851939_Health_care_cost_Doctor_in_surgical_gloves_holding.webp",
-            "alt": "Parent and child smiling after an appointment",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/123911299_Male_hiker_holding_a_map_in_forest.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/123911299_Male_hiker_holding_a_map_in_forest.webp",
+            "alt": "Reception area with smiling staff ready to assist",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -2008,10 +1942,12 @@
             "objectPosition": "",
             "forceAlt": "",
             "loading_mask": "",
-            "image_selection_hints": null
+            "image_selection_hints": {
+              "context_category": "Contact Hero"
+            }
           },
           "video": {
-            "type": "embedded",
+            "type": "file",
             "src": ""
           }
         }
@@ -2054,19 +1990,17 @@
       "add_texture": false,
       "linear_gradient": "",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/111574857_Happy_family_playing_together.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/111574857_Happy_family_playing_together.webp",
-        "alt": "Family enjoying time together outside, inviting patients to schedule a consultation",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/256192470_Close_up_photo_wondered_she_her_he_him_his_lady_gu.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/256192470_Close_up_photo_wondered_she_her_he_him_his_lady_gu.webp",
+        "alt": "Enjoying time together",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
         "addLoader": false,
-        "objectPosition": "center",
+        "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "New Patients Hero"
-        }
+        "image_selection_hints": null
       },
       "reversed": false,
       "centered": true,
@@ -2076,13 +2010,13 @@
     {
       "seo": {
         "page_title": "FAQ | Leavitt Orthodontics",
-        "page_description": "Find answers to common questions about orthodontic treatments, scheduling, and payment options at Leavitt Orthodontics.",
-        "page_keywords": "orthodontics, braces, Invisalign, FAQ, scheduling, payments, Leavitt Orthodontics",
+        "page_description": "Answers to common questions about braces, Invisalign®, appointments, payments, and emergencies at Leavitt Orthodontics in Pocatello.",
+        "page_keywords": "Leavitt Orthodontics, orthodontics, FAQ, braces, Invisalign, retainers, payment plans, Pocatello",
         "additional_settings": false,
         "social_meta": {
           "og_meta": {
             "title": "FAQ | Leavitt Orthodontics",
-            "description": "Find answers to common questions about orthodontic treatments, scheduling, and payment options at Leavitt Orthodontics.",
+            "description": "Answers to common questions about braces, Invisalign®, appointments, payments, and emergencies at Leavitt Orthodontics in Pocatello.",
             "image": "https://images.squarespace-cdn.com/content/v1/6026f3cbe22fb52d30f10a9a/0758ec87-3647-4476-81a2-6d4636f53242/Logo.png?format=1500w"
           }
         }
