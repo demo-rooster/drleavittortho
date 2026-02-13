@@ -1,77 +1,58 @@
 {
   "enable_development_mode": false,
-  "company_name": "Tyska Alexander Orthodontics",
-  "domain": "taortho.com",
-  "email": "info@mandtortho.com",
+  "company_name": "Leavitt Orthodontics",
+  "domain": "drleavittortho.com",
+  "email": "info@drleavittortho.com",
   "phone": {
-    "number": "(716) 759-8323",
-    "href": "tel:+17167598323",
-    "aria": "7 1 6, 7 5 9, 8 3 2 3"
+    "number": "(208) 237-3330",
+    "href": "tel:+12082373330",
+    "aria": "2 0 8, 2 3 7, 3 3 3 0"
   },
   "location": [
     {
-      "title": "Clarence Office",
+      "title": "",
       "address": {
-        "street": "9650 Main Street",
-        "suite": "",
-        "city_state": "Clarence, NY 14031",
+        "street": "1455 Bench Rd.",
+        "suite": "STE. A",
+        "city_state": "Pocatello, ID 83201",
         "coordinates": {
-          "longitude": "-78.6314355",
-          "latitude": "42.9736638"
+          "longitude": "-112.431777",
+          "latitude": "42.901919"
         }
       },
       "phone": {
-        "number": "(716) 759-8323",
-        "href": "tel:+17167598323"
+        "number": "(208) 237-3330",
+        "href": "tel:+12082373330"
       },
-      "email": "info@mandtortho.com",
+      "email": "info@drleavittortho.com",
       "hours": [
         {
-          "day": "Monday",
-          "time": "8:30 am \t6:30 pm"
+          "day": "Mon",
+          "time": "8:00 am - 5:00 pm"
         },
         {
-          "day": "Tuesday",
-          "time": "8:30 am \t6:30 pm"
+          "day": "Tue",
+          "time": "8:00 am - 5:00 pm"
         },
         {
-          "day": "Wednesday",
-          "time": "8:00 am \t11:30 am"
+          "day": "Wed",
+          "time": "8:00 am - 5:00 pm"
         },
         {
-          "day": "Thursday",
-          "time": "8:00 am \t6:00 pm"
+          "day": "Thu",
+          "time": "8:00 am - 5:00 pm"
         },
         {
-          "day": "Friday",
-          "time": "8:00 am \t11:30 am"
+          "day": "Fri",
+          "time": "8:00 am - 5:00 pm"
+        },
+        {
+          "day": "Sat - Sun",
+          "time": "Closed"
         }
       ],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
-        "label": "Get Directions"
-      },
-      "special_note": ""
-    },
-    {
-      "title": "Tonawanda Office",
-      "address": {
-        "street": "1077 Delaware Rd",
-        "suite": "",
-        "city_state": "Tonawanda, NY 14223",
-        "coordinates": {
-          "longitude": "-78.8730228",
-          "latitude": "42.9901241"
-        }
-      },
-      "phone": {
-        "number": "(716) 875-0405",
-        "href": "tel:+17168750405"
-      },
-      "email": "info@mandtortho.com",
-      "hours": [],
-      "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=1077+Delaware+Rd+Tonawanda+NY+14223",
+        "href": "https://www.google.com/maps/search/?api=1&query=1455+Bench+Rd.+STE.+A,+Pocatello,+ID+83201",
         "label": "Get Directions"
       },
       "special_note": ""
@@ -94,28 +75,28 @@
     "content_alignment": "right",
     "links": [
       {
-        "icon": "tooth-two-v1",
-        "text": "9650 Main Street, Clarence, NY 14031",
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
-        "label": "View 9650 Main Street, Clarence, NY 14031 on google maps",
+        "icon": "tooth-two-v2",
+        "text": "1455 Bench Rd. STE. A, Pocatello, ID 83201",
+        "href": "https://www.google.com/maps/search/?api=1&query=1455+Bench+Rd.+STE.+A,+Pocatello,+ID+83201",
+        "label": "View 1455 Bench Rd. STE. A, Pocatello, ID 83201 on google maps",
         "new_window": true
       },
       {
         "icon": "phone",
-        "text": "(716) 759-8323",
-        "href": "tel:+17167598323",
-        "label": "Call 7 1 6. 7 5 9. 8 3 2 3.",
+        "text": "(208) 237-3330",
+        "href": "tel:+12082373330",
+        "label": "Call (208) 237-3330",
         "new_window": false
       }
     ],
     "announcement": {
       "icon": "tooth-two-v2",
-      "label": "",
-      "text": "",
-      "mobile_text": "",
+      "label": "Welcome to Leavitt Orthodontics",
+      "text": "One Doctor. One Location. One Focus — YOU. Schedule a free consultation to learn how we make treatment approachable and affordable.",
+      "mobile_text": "Schedule a Free Consultation",
       "modal": {
-        "title": "",
-        "text": ""
+        "title": "Welcome to Leavitt Orthodontics",
+        "text": "Dr. Tyler Leavitt and our team provide modern orthodontic care in Pocatello with personalized attention, flexible payments, and a friendly patient-first approach."
       }
     }
   },
@@ -132,7 +113,7 @@
           "path": "/contact",
           "hash": "#form",
           "external": false,
-          "include_icon": true,
+          "include_icon": false,
           "icon": "tooth-two-v2",
           "color": "primary"
         }
@@ -150,7 +131,7 @@
   "footer": {
     "social_media": [
       {
-        "href": "https://www.youtube.com/channel/UC1pgQhnbNQ7Mf0xFm_2KF-g",
+        "href": "https://www.youtube.com/watch?v=-pKIMfpwyPo",
         "icon": "youtube"
       }
     ],
@@ -158,12 +139,12 @@
   },
   "enable_popup": false,
   "popup": {
-    "title": "",
+    "title": "Welcome to Leavitt Orthodontics",
     "text": "",
     "image": {
-      "src": "",
+      "src": "https://images.squarespace-cdn.com/content/v1/6026f3cbe22fb52d30f10a9a/0758ec87-3647-4476-81a2-6d4636f53242/Logo.png?format=1500w",
       "webp": "",
-      "alt": "",
+      "alt": "Leavitt Orthodontics logo",
       "aria_hidden": false,
       "bgColor": "",
       "imageBackground": false,
@@ -171,7 +152,9 @@
       "objectPosition": "",
       "forceAlt": "",
       "loading_mask": "",
-      "image_selection_hints": null
+      "image_selection_hints": {
+        "context_category": "About Hero"
+      }
     }
   }
 }
