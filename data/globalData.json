@@ -1,6 +1,6 @@
 {
   "enable_development_mode": false,
-  "company_name": "Leavitt Orthodontics",
+  "company_name": "LEAVITT ORTHODONTICS",
   "domain": "drleavittortho.com",
   "email": "info@drleavittortho.com",
   "phone": {
@@ -45,14 +45,10 @@
         {
           "day": "Fri",
           "time": "8:00 am - 5:00 pm"
-        },
-        {
-          "day": "Sat - Sun",
-          "time": "Closed"
         }
       ],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=1455+Bench+Rd.+STE.+A,+Pocatello,+ID+83201",
+        "href": "https://www.google.com/maps/search/?api=1&query=1455+Bench+Rd+STE+A+Pocatello+ID+83201",
         "label": "Get Directions"
       },
       "special_note": ""
@@ -77,8 +73,8 @@
       {
         "icon": "tooth-two-v2",
         "text": "1455 Bench Rd. STE. A, Pocatello, ID 83201",
-        "href": "https://www.google.com/maps/search/?api=1&query=1455+Bench+Rd.+STE.+A,+Pocatello,+ID+83201",
-        "label": "View 1455 Bench Rd. STE. A, Pocatello, ID 83201 on google maps",
+        "href": "https://www.google.com/maps/search/?api=1&query=1455+Bench+Rd+STE+A+Pocatello+ID+83201",
+        "label": "View 1455 Bench Rd. STE. A, Pocatello, ID 83201 on Google Maps",
         "new_window": true
       },
       {
@@ -91,12 +87,12 @@
     ],
     "announcement": {
       "icon": "tooth-two-v2",
-      "label": "Welcome to Leavitt Orthodontics",
-      "text": "One Doctor. One Location. One Focus — YOU. Schedule a free consultation to learn how we make treatment approachable and affordable.",
-      "mobile_text": "Schedule a Free Consultation",
+      "label": "Open COVID 19 update modal.",
+      "text": "COVID-19 Update. Click here to learn how we keep patients safe during appointments.",
+      "mobile_text": "COVID-19 Update",
       "modal": {
-        "title": "Welcome to Leavitt Orthodontics",
-        "text": "Dr. Tyler Leavitt and our team provide modern orthodontic care in Pocatello with personalized attention, flexible payments, and a friendly patient-first approach."
+        "title": "COVID-19 Update",
+        "text": "We follow current public health guidance and enhanced cleaning protocols to keep patients and staff safe. If you have symptoms, please call us to reschedule or request telehealth guidance."
       }
     }
   },
@@ -113,7 +109,7 @@
           "path": "/contact",
           "hash": "#form",
           "external": false,
-          "include_icon": false,
+          "include_icon": true,
           "icon": "tooth-two-v2",
           "color": "primary"
         }
@@ -131,7 +127,7 @@
   "footer": {
     "social_media": [
       {
-        "href": "https://www.youtube.com/watch?v=-pKIMfpwyPo",
+        "href": "https://www.youtube.com/channel/UC4Xth9Co9Z00OlM5pQ9a1Og",
         "icon": "youtube"
       }
     ],
@@ -142,7 +138,7 @@
     "title": "Welcome to Leavitt Orthodontics",
     "text": "",
     "image": {
-      "src": "https://images.squarespace-cdn.com/content/v1/6026f3cbe22fb52d30f10a9a/0758ec87-3647-4476-81a2-6d4636f53242/Logo.png?format=1500w",
+      "src": "https://drleavittortho.com/universal/images-v6/logo.png",
       "webp": "",
       "alt": "Leavitt Orthodontics logo",
       "aria_hidden": false,
@@ -152,9 +148,7 @@
       "objectPosition": "",
       "forceAlt": "",
       "loading_mask": "",
-      "image_selection_hints": {
-        "context_category": "About Hero"
-      }
+      "image_selection_hints": null
     }
   }
 }
