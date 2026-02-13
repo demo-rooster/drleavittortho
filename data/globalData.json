@@ -1,6 +1,6 @@
 {
   "enable_development_mode": false,
-  "company_name": "LEAVITT ORTHODONTICS",
+  "company_name": "Leavitt Orthodontics",
   "domain": "drleavittortho.com",
   "email": "info@drleavittortho.com",
   "phone": {
@@ -45,10 +45,18 @@
         {
           "day": "Fri",
           "time": "8:00 am - 5:00 pm"
+        },
+        {
+          "day": "Sat",
+          "time": "Closed"
+        },
+        {
+          "day": "Sun",
+          "time": "Closed"
         }
       ],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=1455+Bench+Rd+STE+A+Pocatello+ID+83201",
+        "href": "https://www.google.com/maps/search/?api=1&query=1455+Bench+Rd.+STE.+A,+Pocatello,+ID+83201",
         "label": "Get Directions"
       },
       "special_note": ""
@@ -73,26 +81,26 @@
       {
         "icon": "tooth-two-v2",
         "text": "1455 Bench Rd. STE. A, Pocatello, ID 83201",
-        "href": "https://www.google.com/maps/search/?api=1&query=1455+Bench+Rd+STE+A+Pocatello+ID+83201",
-        "label": "View 1455 Bench Rd. STE. A, Pocatello, ID 83201 on Google Maps",
+        "href": "https://www.google.com/maps/search/?api=1&query=1455+Bench+Rd.+STE.+A,+Pocatello,+ID+83201",
+        "label": "View Leavitt Orthodontics on Google Maps",
         "new_window": true
       },
       {
         "icon": "phone",
         "text": "(208) 237-3330",
         "href": "tel:+12082373330",
-        "label": "Call (208) 237-3330",
+        "label": "Call Leavitt Orthodontics at (208) 237-3330.",
         "new_window": false
       }
     ],
     "announcement": {
       "icon": "tooth-two-v2",
-      "label": "Open COVID 19 update modal.",
-      "text": "COVID-19 Update. Click here to learn how we keep patients safe during appointments.",
-      "mobile_text": "COVID-19 Update",
+      "label": "Schedule A Free Consultation",
+      "text": "Schedule a free consultation with Dr. Leavitt. Call (208) 237-3330 or click Schedule Consultation to request an appointment.",
+      "mobile_text": "Free Consultation",
       "modal": {
-        "title": "COVID-19 Update",
-        "text": "We follow current public health guidance and enhanced cleaning protocols to keep patients and staff safe. If you have symptoms, please call us to reschedule or request telehealth guidance."
+        "title": "Schedule A Free Consultation",
+        "text": "Leavitt Orthodontics offers free consultations to help you understand your options. Dr. Leavitt personally sees each patient to create a tailored treatment plan using modern digital imaging and Invisalign when appropriate."
       }
     }
   },
@@ -127,8 +135,12 @@
   "footer": {
     "social_media": [
       {
-        "href": "https://www.youtube.com/channel/UC4Xth9Co9Z00OlM5pQ9a1Og",
-        "icon": "youtube"
+        "href": "https://www.facebook.com/drleavittortho",
+        "icon": "facebook"
+      },
+      {
+        "href": "https://www.instagram.com/leavittortho",
+        "icon": "instagram"
       }
     ],
     "add_border": false
@@ -138,7 +150,7 @@
     "title": "Welcome to Leavitt Orthodontics",
     "text": "",
     "image": {
-      "src": "https://drleavittortho.com/universal/images-v6/logo.png",
+      "src": "https://images.squarespace-cdn.com/content/v1/6026f3cbe22fb52d30f10a9a/0758ec87-3647-4476-81a2-6d4636f53242/Logo.png?format=1500w",
       "webp": "",
       "alt": "Leavitt Orthodontics logo",
       "aria_hidden": false,
@@ -148,7 +160,9 @@
       "objectPosition": "",
       "forceAlt": "",
       "loading_mask": "",
-      "image_selection_hints": null
+      "image_selection_hints": {
+        "context_category": "Contact Hero"
+      }
     }
   }
 }
